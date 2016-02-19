@@ -2,6 +2,9 @@
 	width: 200px;
 	height: 200px;
 	background-color: red;
+	position: absolute;
+	bottom: 0;
+	right: 0;
 }
 
 .div2 {
@@ -35,4 +38,32 @@
 }
 
 /* Your Code Goes Under This Line */
+.div1 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
 
+.div2 {
+	position: relative;
+	left: 100px;
+	top: 50px;
+}
+
+.div3 {
+	position: absolute;
+	right: 0;
+}
+
+.div4 {
+	float: left;
+}
+
+.div5 {
+	float: right;
+}
+
+.div6 {
+	clear: both;
+	margin: 0 auto;
+}

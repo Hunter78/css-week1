@@ -8,3 +8,29 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+
+
+div {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.d {
+  background-color: blue;
+  padding: 20px;
+
+}
+
+.c {
+  background-color: black;
+  padding: 20px 20px 0 20px;
+}
+
+.b {
+  background-color: orange;
+}
+
+.a {
+  background-color: yellow;
+  width: 50%;
+}

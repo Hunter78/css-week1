@@ -19,3 +19,20 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.circle1 {
+  background-color: black;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+.circle2 {
+  border: solid black 3px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.newpost {
+  border: solid black;
+  border-radius: 0 3px 3px 3px;
+}

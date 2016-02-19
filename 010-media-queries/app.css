@@ -11,3 +11,19 @@
 }
 
 /* Your Code Goes Under This Line */
+@media (max-width: 600px) {
+  .div1 {
+    background-color: green;
+  }
+}
+@media (max-width: 400px)  {
+  .div2 {
+    background-color: purple;
+  }
+}
+@media (min-width: 500px)  {
+  .div2 {
+    color: yellow;
+
+  }
+}
