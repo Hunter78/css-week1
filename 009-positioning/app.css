@@ -51,8 +51,10 @@
 }
 
 .div3 {
-	position: absolute;
-	right: 0;
+	position: relative;
+	float: right;	
+/*	position: absolute;
+	right: 0;*/
 }
 
 .div4 {

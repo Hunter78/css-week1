@@ -11,26 +11,29 @@ img {
 
 
 div {
-    padding: 20px;
-    margin: 0 auto;
+  margin: auto;
 }
 
 .d {
   background-color: blue;
-  padding: 20px;
-
+  width: 90%;
+  height: 40%;
 }
 
 .c {
   background-color: black;
-  padding: 20px 20px 0 20px;
+  width: 90%;
+  height: 70%;  
 }
 
 .b {
   background-color: orange;
+  width: 95%;
+  height: 80%;
 }
 
 .a {
   background-color: yellow;
-  width: 50%;
+  width: 600px;
+  height: 250px;
 }
